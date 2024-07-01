@@ -2,7 +2,7 @@
 title: Nonce-based Freshness for Remote Attestation in Certificate Signing Requests (CSRs) for the Certification Management Protocol (CMP) and for Enrollment over Secure Transport (EST)
 
 abbrev: Nonce Extension for CMP/EST
-docname:  draft-ietf-lamps-attestation-freshness-latest
+docname: draft-ietf-lamps-attestation-freshness-latest
 category: std
 
 ipr: trust200902
