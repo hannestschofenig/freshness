@@ -6,8 +6,8 @@ docname: draft-ietf-lamps-attestation-freshness-latest
 category: std
 
 ipr: trust200902
-area: Security
-workgroup: LAMPS
+area: "Security"
+workgroup: "Limited Additional Mechanisms for PKIX and SMIME"
 keyword: Internet-Draft
 
 stand_alone: yes
